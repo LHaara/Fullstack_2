@@ -1,0 +1,9 @@
+.operationComplete {
+  color: black;
+  background: lightblue;
+  font-size: 18px;
+  border-style: solid;
+  border-radius: 1px;
+  padding: 6px;
+  margin-bottom: 5px;
+}
